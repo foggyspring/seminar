@@ -1,0 +1,1 @@
+python train.py --run test --model_path /home/zhewei/zhewei/quadruped-rl-locomotion/models/2024-07-02_22-51-16/final_model.zip
